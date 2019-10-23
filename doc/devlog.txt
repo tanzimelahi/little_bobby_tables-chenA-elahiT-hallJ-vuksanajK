@@ -41,3 +41,8 @@ What we can do:
                 what needs to be done foe this project
 -USING COMMENTS: adding comments to the code would make it easier for the other
                 team members to understand each others code
+elaihiT--2019-10-23 12:58AM
+Created databases and added tables within them
+Created templates and linked them to the appropriate routes
+Created flask app such that it processes the username and adds it to the accounts table
+Learnt that sqlite3 objs have to be created in each route where I have to use them
